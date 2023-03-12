@@ -9,4 +9,4 @@
 #### Technologies Used :
 
 1. React JS (create-react-app)
-2. Three JS / `react-three-fiber` npm package (Renderer for Three js)
+2. Crud operation 
